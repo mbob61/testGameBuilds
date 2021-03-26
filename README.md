@@ -1,6 +1,6 @@
 # testGameBuilds
 
-##Controls
+## Controls
 
 * Right Bumper / R1 - Shoot
 * Left Bumber / L1 - Boost
